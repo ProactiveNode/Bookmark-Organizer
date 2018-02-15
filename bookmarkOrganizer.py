@@ -9,7 +9,7 @@ def main():
 	#Searches through linesHTML to find the website the user entered. If it has found it, then it gets put into 
 	#the list_keyword list.
 	for i in range(len(linesHTML)):
-		if keyword in linesHTML[i]:
+		if keyword in linesHTML[i].lower():
 			list_keyword.append(linesHTML[i])
 
 	#Removes the occurances of the website with linesHTML
