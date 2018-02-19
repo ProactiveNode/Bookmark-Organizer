@@ -5,4 +5,4 @@ In order to use the script, you will need the HTML file that was created by your
 
 This will open a window called Library and lists all of your bookmarks. In that window, there will be a drop down titled 'Import and Backup' and inside of it, there would be a button to exporting your bookmarks to HTML.
 
-Currently, I have tested this for Firefox 52.0.2 
+Currently, I have tested this for Firefox 52.0.2 and Firefox 58.0.2
